@@ -8,3 +8,14 @@ anchor build --verifiable && anchor test
 
 cd /home/workdir/artifacts/church-of-pump
 npm run dev
+
+cd /home/workdir/artifacts/church-of-pump
+npm run dev
+cd /home/workdir/artifacts/church-of-pump
+npm run dev
+
+cd /home/workdir/artifacts/programs/pump_rewards
+anchor build --verifiable && anchor test
+
+cd /home/workdir/artifacts/church-of-pump
+npm run dev
